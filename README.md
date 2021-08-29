@@ -1,6 +1,10 @@
 # realtime-weather-app
 
 <p align="center">
+    <img alt="screenshot" src="src/images/screenshot-demo.png" width="400">
+</p>
+
+<p align="center">
     <a href="https://weicheng2138.github.io/realtime-weather-app" target="_blank">
         Demo Page
     </a>
