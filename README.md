@@ -4,9 +4,15 @@
     <a href="https://weicheng2138.github.io/realtime-weather-app" target="_blank">
         Demo Page
     </a>
+</p>
+
+<p align="center">
     <a href="https://app.gitbook.com/@weicheng2138/s/review-notes/learn-react-from-hooks" target="_blank">
-        Learning Memo
+        A gitbook of my Learning Memo
     </a>
+</p>
+
+<p align="center">
     <a href=" https://ithelp.ithome.com.tw/articles/10216355" target="_blank">
         Awesome Reference Tutorial
     </a>
