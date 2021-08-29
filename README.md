@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href=" https://ithelp.ithome.com.tw/articles/10216355" target="_blank">
+    <a href="https://ithelp.ithome.com.tw/articles/10216355" target="_blank">
         Awesome Reference Tutorial
     </a>
 </p>
